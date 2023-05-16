@@ -1,1 +1,1 @@
-# UnityStudy
+# Auto Money Maker
